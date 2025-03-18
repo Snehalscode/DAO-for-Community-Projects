@@ -1,0 +1,15 @@
+[package]
+name = "DAO"
+version = "1.0.0"
+authors = []
+
+[addresses]
+DAO = "0x557b6fa57e9922a854814c80752417df2422573b3812f590dafdb45106d84ffe"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
