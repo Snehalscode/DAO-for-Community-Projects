@@ -24,6 +24,6 @@ Our vision is to **empower communities** by providing a **trustless and decentra
 
 ## Contract Adress:
 0x93f7e62f07f3797d26798c4974b85f4b4ecf1e885a796cf1363c4d2b8b5f6d27
-![Screenshot 2025-03-18 165623](https://github.com/user-attachments/assets/159d20c7-a23b-4fd6-a4de-3c054b7f1442)
+![image](https://github.com/user-attachments/assets/7708a89a-0482-46aa-a08a-5e7702cb4b51)
 
 ---
