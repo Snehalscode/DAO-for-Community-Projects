@@ -23,7 +23,7 @@ Our vision is to **empower communities** by providing a **trustless and decentra
 ✅ **Secure & Efficient:** Powered by **Move language** for optimal security and execution.  
 
 ## Contract Adress:
-0x98329dc83b2fdcc18db8cba23bf73a1562bf7956d67f632af6f53195c73aa960
-<img src="ss.png">
+0x93f7e62f07f3797d26798c4974b85f4b4ecf1e885a796cf1363c4d2b8b5f6d27
+![Screenshot 2025-03-18 165623](https://github.com/user-attachments/assets/159d20c7-a23b-4fd6-a4de-3c054b7f1442)
 
 ---
